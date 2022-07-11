@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Chapter01",
+			"Path": "C:\\Users\\ez2dj\\Desktop\\Unreal Tutorial\\Chapter01\\Source\\Chapter01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Chapter01Editor",
+			"Path": "C:\\Users\\ez2dj\\Desktop\\Unreal Tutorial\\Chapter01\\Source\\Chapter01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

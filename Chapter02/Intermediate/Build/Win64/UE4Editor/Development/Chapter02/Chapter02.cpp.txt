@@ -1,0 +1,2 @@
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Definitions.Chapter02.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Source\Chapter02\Chapter02.h

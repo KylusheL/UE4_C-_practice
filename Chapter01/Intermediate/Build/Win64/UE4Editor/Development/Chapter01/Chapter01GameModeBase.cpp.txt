@@ -1,0 +1,7 @@
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Definitions.Chapter01.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Source\Chapter01\Chapter01GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Inc\Chapter01\Chapter01GameModeBase.generated.h

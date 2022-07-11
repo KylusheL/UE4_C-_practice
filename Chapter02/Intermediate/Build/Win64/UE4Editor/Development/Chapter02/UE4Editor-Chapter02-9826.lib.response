@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Chapter02-9826.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\Chapter02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Chapter02.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Chapter02GameModeBase.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\UserProfile.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Chapter02.init.gen.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Chapter02GameModeBase.gen.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\UserProfile.gen.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Default.rc2.res"
+/OUT:"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\UE4Editor-Chapter02-9826.lib"
+/INCLUDE:IMPLEMENT_MODULE_Chapter02

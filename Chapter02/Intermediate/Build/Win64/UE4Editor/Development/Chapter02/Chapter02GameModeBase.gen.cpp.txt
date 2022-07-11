@@ -1,0 +1,19 @@
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Development\Chapter02\Definitions.Chapter02.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Source\Chapter02/Chapter02GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Source\Chapter02\UserProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Source\Chapter02\ColoredTexture.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Inc\Chapter02\ColoredTexture.generated.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Inc\Chapter02\UserProfile.generated.h
+C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter02\Intermediate\Build\Win64\UE4Editor\Inc\Chapter02\Chapter02GameModeBase.generated.h

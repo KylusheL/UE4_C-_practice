@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Chapter01-3350.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\Chapter01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Chapter01.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Chapter01GameModeBase.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Chapter01.init.gen.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Chapter01GameModeBase.gen.cpp.obj"
+"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\Default.rc2.res"
+/OUT:"C:\Users\ez2dj\Desktop\Unreal Tutorial\Chapter01\Intermediate\Build\Win64\UE4Editor\Development\Chapter01\UE4Editor-Chapter01-3350.lib"
+/INCLUDE:IMPLEMENT_MODULE_Chapter01
